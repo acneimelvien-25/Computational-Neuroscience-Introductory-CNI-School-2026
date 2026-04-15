@@ -1,5 +1,6 @@
 # Computational-Neuroscience-Introductory-CNI-School-2026
 Hosted by the African Computational Neuroscience Educational Initiative
+
 This is a virtual training in computational neuroscience designed for post-high school, undergraduate, and post-undergraduate students seeking to develop expertise at the intersection of neuroscience and computational science. The training is very intensive and covers relevant topics necessary to equip learners with computational and neuroscience skills.
 
 Program Overview
