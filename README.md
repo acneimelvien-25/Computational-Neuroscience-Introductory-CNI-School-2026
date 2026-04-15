@@ -91,6 +91,10 @@ To access all materials:
 3. Follow the weekly structure in the `schedule/` folder
 4. Complete tutorials using the provided links and resources
 
+Use of External Resources
+
+The program integrates and adapts open-access educational materials, including resources from Neuromatch and our collaborating organizations. All materials are used in accordance with their respective open educational guidelines. 
+
 ---
 
 ## 🌍 About ACNEI
