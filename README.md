@@ -58,7 +58,7 @@ Systems that connect neural activity to external computational devices.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this training program, participants will be able to:
 
