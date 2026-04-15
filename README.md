@@ -110,6 +110,8 @@ We acknowledge the use of **open-access learning materials from Neuromatch**, wh
 
 We also acknowledge **TReND in Africa** for their support in the program towards the successful delivery of the training.
 
+We further acknowledge YOSIGOPublicando, an initiative supporting open science and research communication, for their contributions to advancing accessible scientific knowledge.
+
 ###  Neuromatch (CC Licensed Resources)
 
 Neuromatch provides openly accessible and Creative Commons–licensed computational neuroscience tutorials and educational content used throughout this program.
