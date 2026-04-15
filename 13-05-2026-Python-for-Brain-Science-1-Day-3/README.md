@@ -26,17 +26,15 @@ Explore the fundamentals of the Leaky Integrate-and-Fire neuron model:
  Sections 1–4
 https://compneuro.neuromatch.io/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.html
 
-Topics Covered
-Leaky Integrate-and-Fire (LIF) neuron dynamics
-Membrane potential integration and decay
-Threshold firing mechanisms
-Introduction to computational neuron modeling
+##  Key Topics Covered
+- LIF neuron dynamics  
+- Membrane potential behavior  
+- Spike threshold mechanisms  
+- Computational neuron modeling  
 
- Learning Objectives
-
-By the end of this session, participants should be able to:
-
-Explain the basic LIF neuron model
-Understand how neurons integrate incoming signals
-Describe how spikes are generated computationally
-Connect theory to simple simulations in Python
+##  Learning Objectives
+Participants will be able to:
+- Explain LIF neuron function  
+- Describe how neurons integrate signals  
+- Model spike generation computationally  
+- Link theory with Python simulations  
