@@ -91,9 +91,6 @@ To access all materials:
 3. Follow the weekly structure in the `schedule/` folder
 4. Complete tutorials using the provided links and resources
 
-Use of External Resources
-
-The program integrates and adapts open-access educational materials, including resources from Neuromatch and our collaborating organizations. All materials are used in accordance with their respective open educational guidelines. 
 
 ---
 
@@ -104,4 +101,34 @@ The African Computational Neuroscience Educational Initiative (ACNEI) is committ
 Learn more: [https://acnei.org/](https://acnei.org/)
 
 ---
+
+##  Collaborators & Open Educational Resources
+
+This virtual training program is developed in collaboration with and supported by collaborators in computational neuroscience education.
+
+We acknowledge the use of **open-access learning materials from Neuromatch**, which were used extensively throughout this training.
+
+We also acknowledge **TReND in Africa** for their support in the program towards the successful delivery of the training.
+
+###  Neuromatch (CC Licensed Resources)
+
+Neuromatch provides openly accessible and Creative Commons–licensed computational neuroscience tutorials and educational content used throughout this program.
+
+🔗 [https://compneuro.neuromatch.io/](https://compneuro.neuromatch.io/)
+
+---
+
+### 🌍 TReND in Africa
+
+TReND in Africa supported this program through organizational support, helping strengthen the quality and impact of the training.
+🔗 .[https://trendinafrica.org/trend-camina/]
+
+
+---
+
+### 📖 YOSIGOPublicando
+
+YOSIGOPublicando is an initiative promoting open science and accessible research communication.
+
+🔗 [https://yosigo.ugr.es/en/about-yosigopublicando/](https://yosigo.ugr.es/en/about-yosigopublicando/)
 
