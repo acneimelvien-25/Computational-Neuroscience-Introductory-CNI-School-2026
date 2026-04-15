@@ -3,11 +3,11 @@
 ## Agenda
 
 Python for Brain Science 1 (Day 2)
-📚 Resource Overview
+ Resource Overview
 
 This session introduces the computational modeling of neuronal dynamics, focusing on the Leaky Integrate-and-Fire (LIF) neuron model and its theoretical foundations.
 
-## 🗓️ Schedule Overview
+##  Schedule Overview
 
 | Component | Duration | Details |
 |-----------|----------|---------|
