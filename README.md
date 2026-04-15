@@ -1,38 +1,103 @@
-# Computational-Neuroscience-Introductory-CNI-School-2026
-Hosted by the African Computational Neuroscience Educational Initiative
 
-This is a virtual training in computational neuroscience designed for post-high school, undergraduate, and post-undergraduate students seeking to develop expertise at the intersection of neuroscience and computational science. The training is very intensive and covers relevant topics necessary to equip learners with computational and neuroscience skills.
+#  Computational Neuroscience Introductory (CNI) School 2026
 
-Program Overview
+Hosted by the **African Computational Neuroscience Educational Initiative (ACNEI)**
+ [https://acnei.org/](https://acnei.org/)
 
-Within a period of two weeks, participants will be exposed to a broad-spectrum primer curriculum covering topics such as:
+---
 
-Neurobiology: Foundational concepts in the structure of the nervous system and function
+##  Program Overview
 
-Neuroplasticity: Understanding adaptation of the brain and the mechanisms of learning
+The Computational Neuroscience Introductory (CNI) School 2026 is a **virtual intensive training program** designed for post-high school, undergraduate, and post-undergraduate learners who are interested in the intersection of neuroscience and computational science.
 
-Python Programming for Brain Science: Developing essential coding skills that is tailored for neuroscience research and the use of brain data
+This program provides a structured and rigorous introduction to computational neuroscience, equipping participants with both theoretical foundations and practical skills.
 
-Neural Modelling: Techniques for simulating neural systems and dynamics
+Over a period of **two weeks**, participants will engage with a comprehensive curriculum that integrates neuroscience, programming, and computational modeling.
 
-Information Encoding: Representation and information processing of the brain
+---
 
-Neural Networks: Understanding Artificial neural systems and their biological parallels
+##  Core Curriculum Areas
 
-Reinforcement Learning: Artificial representation of decision--making and adaptation behavior in organisms
+Participants will be introduced to the following key areas:
 
-Neurotechnology: Understanding tools designed for brain research and measurement
+###  Neurobiology
 
-Brain-Computer Interface: Advance technologies that bridge brain signals and external systems
+Foundational understanding of the structure and function of the nervous system.
 
-Learning Objectives
+###  Neuroplasticity
 
-By the end of the training, learners will:
+Mechanisms of brain adaptation, learning, and synaptic change.
 
-Possess a solid foundation in computational neuroscience principles and methodologies
-Develop practical programming skills that are applicable to neuroscience research
-Gain the confidence and competence to contribute to projects in computational neuroscience
-Be in the position to engage in globally impactful neuroscience research
-This repository contains all neccessary documents, resrources, and files required for the training program. Make sure you fork this repository into your own github.
+###  Python Programming for Brain Science
 
-For more information on ACNEI visit: https://acnei.org/
+Essential programming skills tailored for neuroscience research and brain data analysis.
+
+###  Neural Modelling
+
+Techniques for simulating neural systems and understanding neuronal dynamics.
+
+###  Information Encoding
+
+How the brain represents, processes, and transmits information.
+
+###  Neural Networks
+
+Introduction to artificial neural systems and their biological inspirations.
+
+###  Reinforcement Learning
+
+Computational models of decision-making and adaptive behavior.
+
+### Neurotechnology
+
+Tools and technologies used to measure and study brain activity.
+
+### Brain–Computer Interfaces (BCI)
+
+Systems that connect neural activity to external computational devices.
+
+---
+
+## 🎯 Learning Objectives
+
+By the end of this training program, participants will be able to:
+
+* Develop a strong foundational understanding of computational neuroscience principles and methods
+* Acquire practical Python programming skills relevant to neuroscience research
+* Build confidence in applying computational tools to neuroscience problems
+* Engage meaningfully in research and projects within computational neuroscience
+* Position themselves for future contributions to global neuroscience research
+
+---
+
+##  Repository Contents
+
+This repository contains all necessary:
+
+*  Training documents
+*  Learning resources
+*  Session materials
+*  Code notebooks and tutorials
+*  Slides and project materials
+
+---
+
+## Getting Started
+
+To access all materials:
+
+1. Fork this repository
+2. Clone it to your local machine (optional)
+3. Follow the weekly structure in the `schedule/` folder
+4. Complete tutorials using the provided links and resources
+
+---
+
+## 🌍 About ACNEI
+
+The African Computational Neuroscience Educational Initiative (ACNEI) is committed to building capacity in computational neuroscience across Africa through education, training, and research engagement.
+
+Learn more: [https://acnei.org/](https://acnei.org/)
+
+---
+
