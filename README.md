@@ -24,7 +24,7 @@ Participants will be introduced to the following key areas:
 
 Foundational understanding of the structure and function of the nervous system.
 
-###  Neuroplasticity
+### Neuroplasticity
 
 Mechanisms of brain adaptation, learning, and synaptic change.
 
