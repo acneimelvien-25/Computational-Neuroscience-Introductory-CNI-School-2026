@@ -5,7 +5,7 @@ Hands-on practical session for single neuron modelling.
 
 #  Single Neuron Modelling (Hands-On) – Day 5
 
-## 📚 Resource Overview
+## Resource Overview
 
 This session is a continuation of the lessons learnt in the Speaker's session this morning and focuses on the **hands-on construction of single neuron models**, helping participants transition from theory to practical implementation of computational neuroscience models.
 
