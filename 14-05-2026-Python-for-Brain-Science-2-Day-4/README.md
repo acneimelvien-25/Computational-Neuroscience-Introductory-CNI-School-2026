@@ -19,7 +19,7 @@ This session continues the introduction to computational neuroscience using the 
 
 ---
 
-## 🧪 Tutorial Resources
+##  Tutorial Resources
 
 ### 1. LIF Neuron (Part I – Sections 5–7)
 
@@ -37,7 +37,7 @@ LIF Neuron Part II – extended conceptual and computational understanding:
 
 ---
 
-## 🔑 Key Topics Covered
+## Topics Covered
 
 * Advanced Leaky Integrate-and-Fire (LIF) neuron dynamics
 * Continued membrane potential behavior
@@ -76,7 +76,7 @@ Participants are encouraged to:
 
 ---
 
-## ❓ Reflection Questions
+##  Reflection Questions
 
 * How does membrane potential evolve over time in LIF neurons?
 * What determines when a neuron fires a spike?
