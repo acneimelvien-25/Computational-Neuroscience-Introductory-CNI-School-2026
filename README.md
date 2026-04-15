@@ -74,11 +74,9 @@ By the end of this training program, participants will be able to:
 
 This repository contains all necessary:
 
-*  Training documents
-*  Learning resources
-*  Session materials
-*  Code notebooks and tutorials
-*  Slides and project materials
+*  Slides
+*  Code notebooks and link to tutorial resources
+*  Additional Recommended Learning Resources
 
 ---
 
