@@ -7,15 +7,16 @@ Python for Brain Science 1 (Day 2)
 
 This session introduces the computational modeling of neuronal dynamics, focusing on the Leaky Integrate-and-Fire (LIF) neuron model and its theoretical foundations.
 
- Schedule Overview
-Component	Duration	Details
-Training Instructor (TI) Introduction	20 mins	Overview of session and learning objectives
-Slide Presentation	45 mins	Theoretical foundations of LIF dynamics
-Tutorial Session	60 mins	Guided Neuromatch computational exercises
-Q&A	15 mins	Questions and discussion
- Facilitator
+## 🗓️ Schedule Overview
 
-Training Instructor
+| Component | Duration | Details |
+|-----------|----------|---------|
+| Training Instructor (TI) Introduction | 20 mins | Overview and learning objectives for the session |
+| Slide Presentation | 45 mins | Theoretical foundations of LIF dynamics |
+| Tutorial Session | 60 mins | Guided Neuromatch computational exercises |
+| Q&A | 15 mins | Questions and discussion |
+ 
+ Facilitator: Training Instructor
 
  Tutorial Resources
 1. LIF Neuron Model (Part I)
