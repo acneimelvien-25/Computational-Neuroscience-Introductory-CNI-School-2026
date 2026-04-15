@@ -16,7 +16,7 @@ Today's session explores how information is represented and encoded in neural sy
 
 ---
 
-##👨‍🏫 Facilitator: Training Instructor
+## Facilitator: Training Instructor
 
 ---
 
