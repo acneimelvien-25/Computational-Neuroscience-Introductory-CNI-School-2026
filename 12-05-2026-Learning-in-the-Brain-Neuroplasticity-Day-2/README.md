@@ -1,12 +1,12 @@
 # Learning in the Brain (Neuroplasticity) - Day 2
 
-## TA-Guided Resource
+## Resource
 
 ### Schedule Overview
 
 | Component | Duration | Details |
 |-----------|----------|---------|
-| TA Session Introduction | 20 mins | Overview and session kickoff |
+| TI Session Introduction | 20 mins | Overview and session kickoff |
 | Slide Presentation | 40 mins | Techniques to assess learning in the brain, brain spikes, long-term potentiation |
 | Tutorial Session | 35 mins | Neuromatch resources |
 | Q&A | 15 mins | Questions and discussion |
