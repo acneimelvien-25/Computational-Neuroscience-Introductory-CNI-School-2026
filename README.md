@@ -94,7 +94,7 @@ To access all materials:
 
 ---
 
-## 🌍 About ACNEI
+##  About ACNEI
 
 The African Computational Neuroscience Educational Initiative (ACNEI) is committed to building capacity in computational neuroscience across Africa through education, training, and research engagement.
 
@@ -120,7 +120,7 @@ Neuromatch provides openly accessible and Creative Commons–licensed computatio
 
 ---
 
-### 🌍 TReND in Africa
+###  TReND in Africa
 
 TReND in Africa supported this program through organizational support, helping strengthen the quality and impact of the training.
 🔗 .[https://trendinafrica.org/trend-camina/]
@@ -128,7 +128,7 @@ TReND in Africa supported this program through organizational support, helping s
 
 ---
 
-### 📖 YOSIGOPublicando
+###  YOSIGOPublicando
 
 YOSIGOPublicando is an initiative promoting open science and accessible research communication.
 
