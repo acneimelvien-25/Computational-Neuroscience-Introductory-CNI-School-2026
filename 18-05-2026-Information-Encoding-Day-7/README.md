@@ -1,0 +1,1 @@
+# 18-05-2026 Information Encoding - Day 7
