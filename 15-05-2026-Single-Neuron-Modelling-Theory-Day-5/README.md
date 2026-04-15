@@ -15,7 +15,7 @@ This session connects the lessons learnt from the Speaker's session and introduc
 | Q&A | 15 mins | Questions and discussion |
 ---
 
-## 👩‍🏫 Facilitator: Training Instructor
+##  Facilitator: Training Instructor
 
 ## Tutorial Resources
 
