@@ -9,7 +9,7 @@ This session introduces participants to modern neurotechnology tools and open-ac
 
 ## Schedule Overview
 
-`| Component | Duration | Details |
+| Component | Duration | Details |
 |----------|----------|--------|
 | Slide Presentation | 20 mins | Introduction to open-access neuroscience datasets (fMRI, EEG, calcium imaging) |
 | Tutorial Session | 40 mins | Neuromatch guide to datasets and project examples |
