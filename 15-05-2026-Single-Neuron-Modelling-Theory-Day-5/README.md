@@ -17,7 +17,7 @@ This session connects the lessons learnt from the Speaker's session and introduc
 
 ##  Facilitator: Training Instructor
 
-## Tutorial Resources
+## Tutorial Resources (Neuromatch)
 
 ### 1. Introduction to Modeling
 
@@ -27,7 +27,7 @@ Foundations of computational and conceptual neuron modeling:
 
 ---
 
-##  Key Topics Covered
+##  Topics Covered
 
 * Purpose of neuron modeling in neuroscience
 * Principles of computational representation of neurons
