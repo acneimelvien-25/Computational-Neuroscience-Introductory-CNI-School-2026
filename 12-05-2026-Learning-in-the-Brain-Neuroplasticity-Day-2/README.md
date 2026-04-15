@@ -12,7 +12,7 @@
 | Q&A | 15 mins | Questions and discussion |
 
 ### Facilitator
-- **Dr. Ronald** (Lead Instructor)
+- **Training Instructor**
 
 ### Tutorial Resources
 
