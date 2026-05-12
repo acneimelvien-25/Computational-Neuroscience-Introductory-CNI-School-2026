@@ -9,10 +9,10 @@ This session continues the introduction to computational neuroscience using the 
 ##  Schedule Overview
 
 | Component | Duration | Details |
-|----------|----------|--------|
-| Slide Presentation | 45 mins | Theoretical Foundations of LIF Dynamics II |
-| Tutorial Session | 60 mins | Guided Neuromatch learning activities |
-| Q&A | 15 mins | Questions and discussion |
+|----------|----------|--------
+| LIF Neuron PT 1- Section 5-7| 60 mins | Continuation of Yesterday's session
+| LIF Neuron PT 2 | 50 mins | Guided Neuromatch learning activities |
+| Q&A | 10 mins | Questions and discussion |
 
 
 ##  Facilitator: Training Instructor
